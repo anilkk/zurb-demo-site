@@ -1,0 +1,34 @@
+/*custom css style*/
+.banner {
+	background-image: url('http://placehold.it/1000x500/424342/424342');
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 500px;
+	width: 100%;
+}
+
+.banner h1 {
+	color: #F5F2EB;
+	font-family: 'Open Sans', sans-serif;
+	padding: 50px 0;
+}
+
+.place-section {
+	background-repeat: no-repeat;
+	min-height: 250px !important;
+}
+
+.place1 {
+	background-image: url('http://placehold.it/1000x250/88A6AF/88A6AF');
+}
+
+.place2 {
+	background-image: url('http://placehold.it/1000x250/435A66/435A66');
+}
+
+.following i {
+	width: 10%;
+	display: inline-block;
+	font-size: 35px;
+	padding: 0 25px;
+}

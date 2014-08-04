@@ -1,0 +1,680 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fs",
+				"font-size"
+			],
+			[
+				"bgr",
+				"background-repeat"
+			],
+			[
+				"background-",
+				"background-size"
+			],
+			[
+				"ba",
+				"background-clip"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"h",
+				"height	Attr"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"co",
+				"country"
+			],
+			[
+				"m",
+				"myMat"
+			],
+			[
+				"dr",
+				"drawVerScale"
+			],
+			[
+				"na",
+				"newValue"
+			],
+			[
+				"ne",
+				"newValue"
+			],
+			[
+				"cu",
+				"currentValue"
+			],
+			[
+				"sc",
+				"scaleLength"
+			],
+			[
+				"scale",
+				"scaleLength"
+			],
+			[
+				"add",
+				"add"
+			],
+			[
+				"ch",
+				"changeScaleValue"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"ver",
+				"verIcon"
+			],
+			[
+				"sca",
+				"scaleContainer"
+			],
+			[
+				"ac",
+				"activateHorBtn"
+			],
+			[
+				"hor",
+				"horizontal"
+			],
+			[
+				"ad",
+				"addEventListener"
+			],
+			[
+				"s",
+				"scaleContainer"
+			],
+			[
+				"px",
+				"pxReader"
+			],
+			[
+				"scal",
+				"scale-style"
+			],
+			[
+				"te",
+				"tempWidth"
+			],
+			[
+				"tem",
+				"tempHieght"
+			],
+			[
+				"draw",
+				"drawVerScale"
+			],
+			[
+				"of",
+				"offsetTop"
+			],
+			[
+				"is",
+				"isClickOnSwipeRegion"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"can",
+				"canvas"
+			],
+			[
+				"ca",
+				"canvasPosition"
+			],
+			[
+				"pa",
+				"pageX"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"ve",
+				"verIcon"
+			],
+			[
+				"o",
+				"offsetLeft"
+			],
+			[
+				"ma",
+				"markerLeftPosition"
+			],
+			[
+				"l",
+				"loadFiles"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"ev",
+				"event"
+			],
+			[
+				"an",
+				"anil-tasks"
+			],
+			[
+				"sh",
+				"showBtn"
+			],
+			[
+				"db",
+				"dbobject"
+			],
+			[
+				"at",
+				"attr"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"fi",
+				"FileTransfer"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"scr",
+				"scrollTop"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"upl",
+				"upload"
+			],
+			[
+				"ser",
+				"serverURL"
+			],
+			[
+				"im",
+				"imageData"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"di",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!doctype html>\n<html class=\"no-js\" lang=\"en\">\n\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>Foundation | Welcome</title>\n    <link rel=\"stylesheet\" href=\"css/foundation.css\" />\n    <link rel=\"stylesheet\" href=\"css/app.css\">\n    <link rel=\"stylesheet\" href=\"css/foundation-icons.css\">\n    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>\n    <script src=\"js/vendor/modernizr.js\"></script>\n</head>\n\n<body>\n    <nav class=\"top-bar\" data-topbar>\n        <ul class=\"title-area\">\n            <li class=\"name\">\n                <h1><a href=\"#\">LOGO</a>\n                </h1>\n                </a>\n            </li>\n            <li class=\"toggle-topbar menu-icon\"><a href=\"#\">Menu</a>\n            </li>\n        </ul>\n        <section class=\"top-bar-section\">\n            <ul class=\"right\">\n                <li class=\"active\"><a href=\"#\">Home</a>\n                </li>\n                <li><a href=\"#\">link1</a>\n                </li>\n                <li><a href=\"#\">link 2</a>\n                </li>\n                <li><a href=\"#\">link 3</a>\n                </li>\n            </ul>\n        </section>\n    </nav>\n    <!-- Site Navigation -->\n    <div class=\"row\">\n        <div class=\"small-12 medium-12 large-12 columns banner text-center\">\n            <h1>Lorem ipsum dolor sit amet, consectetur</h1>\n            <a href=\"#\" class=\"button radius\">\n              Action\n            </a>\n        </div>\n    </div>\n    <!-- header banner -->\n    <div class=\"row\">\n        <div class=\"small-12 medium-12 large-12 columns banner text-center place-section place1\">\n            <h1>Lorem ipsum dolor sit amet, consectetur</h1>\n            <a href=\"#\" class=\"button radius\">\n              Action\n            </a>\n        </div>\n    </div>\n    <div class=\"row\">\n        <div class=\"small-12 medium-12 large-12 columns banner text-center place-section place2\">\n            <h1>Lorem ipsum dolor sit amet, consectetur</h1>\n            <a href=\"#\" class=\"button radius\">\n              Action\n            </a>\n        </div>\n    </div>\n    <div class=\"row\">\n        <div class=\"columns\">\n            <h2>Gallery</h2>\n            <ul class=\"clearing-thumbs large-block-grid-3\">\n                <li><a href=\"http://placehold.it/320x320/FF003C\"><img src=\"http://placehold.it/320x320/FF003C\" alt=\"demo\" class=\"th\"></a></li>\n                <li><a href=\"http://placehold.it/320x320/FF003C\"><img src=\"http://placehold.it/320x320/FF8A00\" alt=\"demo\" class=\"th\"></a></li>\n                <li><a href=\"http://placehold.it/320x320/FF003C\"><img src=\"http://placehold.it/320x320/FABE28 \" alt=\"demo\" class=\"th\"></a></li>\n                <li><a href=\"http://placehold.it/320x320/FF003C\"><img src=\"http://placehold.it/320x320/1F00C1\" alt=\"demo\" class=\"th\"></a></li>\n                <li><a href=\"http://placehold.it/320x320/FF003C\"><img src=\"http://placehold.it/320x320/88C100\" alt=\"demo\" class=\"th\"></a></li>\n                <li><a href=\"http://placehold.it/320x320/FF003C\"><img src=\"http://placehold.it/320x320/00c176\" alt=\"demo\" class=\"th\"></a></li>\n            </ul>\n        </div>\n    </div>\n    <div class=\"row\">\n        <div class=\"medium-4 columns\">\n            <form action=\"\">\n                <div class=\"row\">\n                    <div class=\"small-12 columns\">\n                        <h4>Singup for News Letter</h4>\n                        <label for=\"email\"> \n                            <input type=\"text\" name =\"email\"placeholder=\"Email\">\n                        </label>\n                    </div>\n                </div>\n            </form>\n        </div>\n        <div class=\"medium-4 columns following\">\n            <h3>Follow Us</h3>\n            <i class=\"fi-social-twitter\"></i>\n            <i class=\"fi-social-facebook\"></i>\n            <i class=\"fi-social-vimeo\"></i>\n        </div>\n        <div class=\"medium-4 columns\">\n            <ul class=\"side-nav no-bullets\">\n                <li><a href=\"#\">Link1 </a></li>\n                <li><a href=\"#\">Link2 </a></li>\n                <li><a href=\"#\">Link3 </a></li>\n                <li><a href=\"#\">Link4 </a></li>\n            </ul>\n        </div>\n    </div>\n    <script src=\"js/vendor/jquery.js\"></script>\n    <script src=\"js/foundation.min.js\"></script>\n    <script>\n    $(document).foundation();\n    </script>\n</body>\n\n</html>\n",
+			"file": "index.html",
+			"file_size": 4387,
+			"file_write_time": 130516555610000000,
+			"settings":
+			{
+				"buffer_size": 4388,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "preview.html",
+			"settings":
+			{
+				"buffer_size": 324214,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/app.css",
+			"settings":
+			{
+				"buffer_size": 622,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"git:add",
+				"Git: Add Current File"
+			],
+			[
+				"git:co",
+				"Git: Commit"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 89.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/anilkumarkrishnashetty/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/anilkumarkrishnashetty/Dropbox/projects/foundation-5.3.2/css/app.css",
+		"/Users/anilkumarkrishnashetty/Dropbox/projects/foundation-5.3.2/typography.html",
+		"/Users/anilkumarkrishnashetty/Dropbox/projects/foundation-5.3.2/chap-3-challenge.html",
+		"/Users/anilkumarkrishnashetty/Dropbox/projects/foundation-5.3.2/nav.html",
+		"/Users/anilkumarkrishnashetty/Dropbox/projects/foundation-5.3.2/nav-f.html",
+		"/Users/anilkumarkrishnashetty/Dropbox/projects/foundation-5.3.2/nested-grid.html",
+		"/Users/anilkumarkrishnashetty/Dropbox/projects/foundation-5.3.2/index.html",
+		"/Users/anilkumarkrishnashetty/Dropbox/projects/foundation-5.3.2/humans.txt",
+		"/Users/anilkumarkrishnashetty/Dropbox/projects/foundation-5.3.2/grid.html",
+		"/Users/anilkumarkrishnashetty/Dropbox/projects/foundation-5.3.2/foundation-5.3.2.sublime-project",
+		"/Users/anilkumarkrishnashetty/Dropbox/projects/foundation-5.3.2/chap-2-challenge.html",
+		"/Users/anilkumarkrishnashetty/Dropbox/projects/foundation-5.3.2/block-grid.html",
+		"/Users/anilkumarkrishnashetty/.bash_profile",
+		"/Users/anilkumarkrishnashetty/Dropbox/projects/foundation-5.3.2/source-order.html",
+		"/Users/anilkumarkrishnashetty/Dropbox/projects/Ex_Files_UaR_Foundation5/Exercise Files/Chapter 2/02_07/start/block-grid.html",
+		"/Users/anilkumarkrishnashetty/Dropbox/projects/foundation-5.3.2/img/.gitkeep",
+		"/Users/anilkumarkrishnashetty/Dropbox/projects/foundation-5.3.2/css/normalize.css",
+		"/Users/anilkumarkrishnashetty/Dropbox/projects/foundation-5.3.2/css/foundation.min.css",
+		"/Users/anilkumarkrishnashetty/Dropbox/projects/foundation-5.3.2/css/foundation.css",
+		"/Users/anilkumarkrishnashetty/Dropbox/projects/foundation-5.3.2/robots.txt",
+		"/Users/anilkumarkrishnashetty/projects/html5/Ex_Files_UaR_Backbonejs/Exercise Files/02/snippets.txt",
+		"/Users/anilkumarkrishnashetty/projects/html5/Ex_Files_UaR_Backbonejs/Exercise Files/02/02-02/start/js/models/singleFlowerModel.js",
+		"/Users/anilkumarkrishnashetty/Dropbox/projects/cv/print.css",
+		"/Users/anilkumarkrishnashetty/Dropbox/projects/cv/print.html",
+		"/Users/anilkumarkrishnashetty/projects/html5/Ex_Files_UaR_Backbonejs/Exercise Files/03/03-06/index.html",
+		"/Users/anilkumarkrishnashetty/projects/html5/Ex_Files_UaR_Backbonejs/Exercise Files/02/02-04/js/flowerApp.js",
+		"/Users/anilkumarkrishnashetty/projects/html5/Ex_Files_UaR_Backbonejs/Exercise Files/02/02-04/js/models/singleFlowerModel.js",
+		"/Users/anilkumarkrishnashetty/projects/html5/Ex_Files_UaR_Backbonejs/Exercise Files/02/02-04/js/collections/allFlowers.js",
+		"/Users/anilkumarkrishnashetty/Dropbox/projects/framerjsdemo/index.html",
+		"/Users/anilkumarkrishnashetty/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/anilkumarkrishnashetty/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/anilkumarkrishnashetty/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/anilkumarkrishnashetty/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/anilkumarkrishnashetty/projects/appjs/index.html",
+		"/Users/anilkumarkrishnashetty/Dropbox/vender-international/venderDemo/scripts/main.js",
+		"/Users/anilkumarkrishnashetty/Dropbox/vender-international/venderDemo/index.html",
+		"/Users/anilkumarkrishnashetty/projects/html5/html5-indexedDB/prism.js",
+		"/Users/anilkumarkrishnashetty/projects/pg-vender/test/config.xml",
+		"/Users/anilkumarkrishnashetty/projects/phonegapdemo/ios-project/platforms/ios/HelloWorld/config.xml",
+		"/Users/anilkumarkrishnashetty/Dropbox/vender-international/pg-vender/config.xml",
+		"/Users/anilkumarkrishnashetty/Downloads/dubaiservicejam/index.html",
+		"/Users/anilkumarkrishnashetty/Downloads/dubaiservicejam/css/style.css",
+		"/Users/anilkumarkrishnashetty/Downloads/dubaiservicejam/css/eventbrite-style.css",
+		"/Users/anilkumarkrishnashetty/projects/flightApp/app/js/component/hello_world.js",
+		"/Users/anilkumarkrishnashetty/Dropbox/dubai-jam/dubaiservicejam/index.html",
+		"/Users/anilkumarkrishnashetty/projects/Ex_Files_UandR_PhoneGap/Free Exercise Files/04_10/www/index.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"#\"><",
+			"></",
+			"><",
+			"email",
+			"twitter",
+			"r\">",
+			"orbit",
+			"-tip\"",
+			"<img ",
+			"model",
+			"th\">",
+			"></a>",
+			"f=\"#\"",
+			"radius",
+			"<ul",
+			"Paris",
+			"p>",
+			"p",
+			"small",
+			"small-4",
+			"small",
+			"span",
+			"					supporters\n",
+			"h1",
+			"stateFlower",
+			"a",
+			"strong",
+			" \n",
+			"lorem",
+			"App",
+			"t",
+			"coor.x +",
+			"r10",
+			"with",
+			"	You can use UI5 in any HTML file with the following bootstrap script tag which already contains jQuery:\n",
+			"HTML",
+			"changeScaleValue",
+			"pxReader",
+			"activateV",
+			"activate",
+			"add",
+			"canvas",
+			"activateClick",
+			"marker",
+			"getElementById",
+			"setAttribute",
+			"app-upload-result",
+			"#app-upload-result",
+			"app-upload-result",
+			"app-upload-success",
+			"app-upload",
+			"contact",
+			"id",
+			"page2",
+			"_onFail",
+			"_onPhotoDataSuccess",
+			"_onFail",
+			"_onPhotoDataSuccess",
+			"h3",
+			"span",
+			"iframe",
+			"#",
+			"frame",
+			"iframe",
+			"map_canvas",
+			"map",
+			"map_canvas",
+			"serverURL",
+			"error"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2683,
+								2683
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1579.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "preview.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 324214,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								261748,
+								261748
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1394.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/app.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								598,
+								598
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 86.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 154.0
+	},
+	"project": "zurb-demo-site.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"demo.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/projects/foundation-5.3.2/foundation-5.3.2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
